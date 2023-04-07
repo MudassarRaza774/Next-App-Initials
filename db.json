@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": ": json-server showing 35",
+      "author": "typicode 1"
+    },
+    {
+      "id": 2,
+      "title": ": json-server showing 297",
+      "author": "typicode 2"
+    },
+    {
+      "id": 3,
+      "title": ": json-server showing 30",
+      "author": "typicode 3"
+    }
+  ],
+  "news":[
+    {
+      "id":1,
+      "title":"News Article 1.1.11",
+      "description":"Description 1",
+      "catagory":"sports"
+    },
+    {
+      "id":2,
+      "title":"News Article 2",
+      "description":"Description 2",
+      "catagory":"politics"
+    },
+    {
+      "id":3,
+      "title":"News Article 3",
+      "description":"Description 3",
+      "catagory":"sports"
+    }
+  ],
+  "dashboard":{
+    "posts": 50,
+    "likes": 4100,
+    "followers": 697,
+    "following": 3
+  },
+  "events":[
+    {
+      "id":1,
+      "title":"Event 1",
+      "description":"Description 1",
+      "catagory": "sports",
+      "date": "April 30"
+    },
+    {
+      "id":2,
+      "title":"Event 1",
+      "description":"Description 2",
+      "catagory": "technology",
+      "date": "january 21"
+    },
+    {
+      "id":3,
+      "title":"Event 1",
+      "description":"Description 3",
+      "catagory": "food",
+      "date": "october 12"
+    },
+    {
+      "id":4,
+      "title":"Event 4",
+      "description":"Description 4",
+      "catagory": "food",
+      "date": "october 01"
+    },
+    {
+      "id":5,
+      "title":"Event 5",
+      "description":"Description 5",
+      "catagory": "technology",
+      "date": "march 21"
+    }
+  ]
+
+}

@@ -6,12 +6,17 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "serve-json": "json-server --watch db.json --port 4000"
   },
   "dependencies": {
+    "json-server": "^0.17.1",
+    "mongodb": "^4.13.0",
     "next": "13.0.6",
+    "next-auth": "^4.18.7",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "swr": "^2.0.0"
   },
   "devDependencies": {
     "eslint": "8.29.0",
